@@ -28,4 +28,4 @@ else if (pontosDeExperiencia >= 9001 && pontosDeExperiencia <= 10001) {
     nivelDoHeroi = "Radiante"
 } 
 
-console.log("O  herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi)
+console.log("O  herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi);
